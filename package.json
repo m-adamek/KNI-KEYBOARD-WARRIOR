@@ -1,0 +1,32 @@
+{
+  "name": "keyboard-warrior",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "KEYBOARD WARRIOR — Cyberpunk Typing Arcade Game for KNI Open Day",
+  "scripts": {
+    "dev": "vite",
+    "host": "vite --host",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host",
+    "start": "node server/prod-server.mjs",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.2.0",
+    "@types/node": "^22.13.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "jsdom": "^26.0.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.2.0",
+    "vitest": "^5.0.4"
+  }
+}

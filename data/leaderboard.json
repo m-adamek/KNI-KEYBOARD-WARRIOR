@@ -1,0 +1,44 @@
+[
+  {
+    "id": "session-1791873082384-0-ncplym",
+    "nickname": "TURBO_KEY",
+    "mode": "CODE",
+    "duration": 30,
+    "wpm": 31,
+    "accuracy": 98.7,
+    "errors": 1,
+    "correctChars": 77,
+    "totalChars": 78,
+    "score": 3020,
+    "createdAt": "2026-10-13T06:32:01.121Z",
+    "isDemo": false
+  },
+  {
+    "id": "session-1791873176267-1-ck9llu",
+    "nickname": "CYBER_WILK",
+    "mode": "CODE",
+    "duration": 60,
+    "wpm": 31,
+    "accuracy": 100,
+    "errors": 0,
+    "correctChars": 153,
+    "totalChars": 153,
+    "score": 3100,
+    "createdAt": "2026-10-13T06:34:00.767Z",
+    "isDemo": false
+  },
+  {
+    "id": "session-1791873247337-3-j5i89u",
+    "nickname": "CYBER_WILK",
+    "mode": "HACKER",
+    "duration": 60,
+    "wpm": 61,
+    "accuracy": 100,
+    "errors": 0,
+    "correctChars": 305,
+    "totalChars": 305,
+    "score": 6100,
+    "createdAt": "2026-10-13T06:35:09.222Z",
+    "isDemo": false
+  }
+]
